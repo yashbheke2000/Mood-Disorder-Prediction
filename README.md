@@ -5,4 +5,4 @@ A comprehensive feature engineering process distilled 60+ predictors from text, 
 
 Visualizations, confusion matrices, and ROC curves are included for thorough model evaluation. The project is fully modular, with cloud-based configuration files and reproducible Databricks notebooks, enabling easy scaling, collaboration, and deployment in real-world clinical settings.
 
-Tech Stack: Databricks, AWS RDS, AWS S3
+Tech Stack: Python(Pandas, Numpy, scikit-learn, Random Forest, Extra Trees, cross validation, SHAP), Databricks, AWS RDS, AWS S3, Jupyter Notebook
